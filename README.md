@@ -78,7 +78,7 @@ The application meets the following requirements:
 
    ```bash
    npm install http-server -g
-   http-server -p 8080**
+   http-server -p 8080
    ```
 
 
