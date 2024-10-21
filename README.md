@@ -49,6 +49,8 @@ The application meets the following requirements:
 
 - Minimum screen resolution: 1070x680
 - Node.js (Optional if live server isn’t available)
+## Image
+![image](https://github.com/user-attachments/assets/66c11c1a-a4e9-45d6-b12b-188a5116a062)
 
 ## Setup
 
@@ -61,7 +63,7 @@ The application meets the following requirements:
 
 1. **Clone the Repository**
    ```bash
-   git clone 
+   git clone https://github.com/rampalyadav0001/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git 
 
    ```
 
